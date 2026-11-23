@@ -1,4 +1,4 @@
-# 💫 About Me:
+# POORNIMA G C
 - 🎓 MCA student passionate about technology and software development.<br>- 💻 Learning Python, SQL, HTML, CSS and exploring new technologies.<br>- 🚀 Interested in building projects, improving coding skills, and growing as an IT professional.
 
 
